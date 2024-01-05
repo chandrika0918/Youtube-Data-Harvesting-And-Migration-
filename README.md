@@ -46,8 +46,13 @@ Comment_Details: Contains details about comments on videos.
 Data Analysis
 Explore various SQL queries to analyze and extract insights from the collected YouTube data.
 ScreenShots for this app
+Extract & Upload to MongoDB
 ![image](https://github.com/chandrika0918/Youtube-Data-Harvesting-And-Migration-/assets/143815211/1f80bc89-a016-4be8-b402-c5bffe52a42e)
+
+Migrate to MySQL
 ![image](https://github.com/chandrika0918/Youtube-Data-Harvesting-And-Migration-/assets/143815211/145dbd12-aab9-4fab-8115-7f932cf80b9d)
+
+SQL Query Analysis
 ![image](https://github.com/chandrika0918/Youtube-Data-Harvesting-And-Migration-/assets/143815211/d30a5fb2-e55a-42ce-b92a-4b24e1ab6673)
 
 Conclusion
