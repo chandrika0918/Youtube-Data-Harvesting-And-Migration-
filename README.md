@@ -54,6 +54,10 @@ Explore various SQL queries to analyze and extract insights from the collected Y
 ## SQL Query Analysis
 ![image](https://github.com/chandrika0918/Youtube-Data-Harvesting-And-Migration-/assets/143815211/d30a5fb2-e55a-42ce-b92a-4b24e1ab6673)
 
+## Demo Video
+### Click Here to view demo video
+linkedin: https://www.linkedin.com/posts/vijayachandrika-r-bb554023a_datascience-youtube-data-activity-7150115235972939776-UGOq?utm_source=share&utm_medium=member_desktop
+
 # Conclusion
 This script facilitates the extraction, storage, and analysis of YouTube data, providing valuable insights into channel and video performance. Customize queries or add new ones to suit your analytical needs.
  
